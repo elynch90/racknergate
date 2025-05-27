@@ -66,4 +66,4 @@ https://creativecommons.org/publicdomain/zero/1.0/
 
 These materials are shared in the public interest for purposes of accountability and transparency.
 
-# GOD BLESS AMERICAN AND LET FREEDOM RING -- EAGLE
+# GOD BLESS AMERICA AND LET FREEDOM RING -- EAGLE
