@@ -22,7 +22,7 @@ This document is an official correspondence from the Office of Disciplinary Coun
 
 ## 🧾 Their Official Claim
 * see Lynch Decision Letter – May 21, 2025 for original
-** NOTE: they have also misgendered Frank -- giving the impression their attention to dertail and facts is suspect at best.
+** NOTE: they have also misgendered Frank -- giving the impression their attention to detail and facts is suspect at best.
 <img src='screenshot_a.png'></img>
 
 ## METADATA OF EHIBIT A
