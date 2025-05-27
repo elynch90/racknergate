@@ -15,7 +15,7 @@ Digital Forensic evidence related to institutional corruption and procedural fra
 Unredacted Original image
 Full-resolution image without pixel masking or edits.
 * NOTE: THE BELOW IS A SCREENSHOT TO RENDER IN THE BROWSWER -- NOT EXHIBIT_A_ORIGINAL.HEIC -- .HEIC IS NOT HTML COMPATABLE
-<img src='screenshot_d.png' style="width: 512px; height: 512px;></img>
+<img src='screenshot_d.png' style="width: 512px; height: 512px;"></img>
 
 ## Lynch Decision Letter – May 21, 2025
 Document Title: Lynch Decision Letter 5-21-2025.pdf
