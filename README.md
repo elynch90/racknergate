@@ -18,7 +18,11 @@ This document is an official correspondence from the Office of Disciplinary Coun
 
 ## METADATA OF EHIBIT A
 * WE ENCOURAGE YOU NOT TO TAKE OUR WORD ALONE BUT TO VERIFY THE METADATA YOURSELVES.
-<image src='screenshot_b.png'></image>
+<div>
+   <image src='screenshot_b.png'></image>
+</div>
+
+## DATE SNIPPET FROM THE ABOVE METADATA
 <image src='screenshot_c.png'></image>
 
 ## CONCLUSION
