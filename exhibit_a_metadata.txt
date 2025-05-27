@@ -1,0 +1,161 @@
+ExifTool Version Number         : 13.25
+File Name                       : EXHIBIT_A_ORIGINAL.HEIC
+Directory                       : .
+File Size                       : 1079 kB
+File Modification Date/Time     : 2025:03:30 11:45:17-07:00
+File Access Date/Time           : 2025:05:27 11:03:10-07:00
+File Inode Change Date/Time     : 2025:05:27 10:40:10-07:00
+File Permissions                : -rw-r--r--
+File Type                       : HEIC
+File Type Extension             : heic
+MIME Type                       : image/heic
+Major Brand                     : High Efficiency Image Format HEVC still image (.HEIC)
+Minor Version                   : 0.0.0
+Compatible Brands               : mif1, MiHB, MiHE, MiPr, miaf, heic, tmap
+Handler Type                    : Picture
+Primary Item Reference          : 49
+Meta Image Size                 : 4032x3024 0 515 2016 1512 0 0 64 0 0 15 16960 25 59842 15 16960 65534 47088 15 16960 25 59842 15 16960 11 18850 15 16960 0 10 15 16960 0 10 15 16960
+XMP Toolkit                     : XMP Core 6.0.0
+HDR Gain Map Version            : 0.2.0.0
+HDR Gain Map Headroom           : 3.245053
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone 15 Pro Max
+Orientation                     : Rotate 90 CW
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 18.3.2
+Modify Date                     : 2025:03:30 11:45:17
+Host Computer                   : iPhone 15 Pro Max
+Exposure Time                   : 1/40
+F Number                        : 2.2
+Exposure Program                : Program AE
+ISO                             : 1000
+Exif Version                    : 0232
+Date/Time Original              : 2025:03:30 11:45:17
+Create Date                     : 2025:03:30 11:45:17
+Offset Time                     : -07:00
+Offset Time Original            : -07:00
+Offset Time Digitized           : -07:00
+Shutter Speed Value             : 1/40
+Aperture Value                  : 2.2
+Brightness Value                : -0.2756890169
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Off, Did not fire
+Focal Length                    : 2.2 mm
+Subject Area                    : 2016 1514 2322 1329
+Maker Note Version              : 15
+Run Time Flags                  : Valid
+Run Time Value                  : 8173146420750
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+AE Stable                       : Yes
+AE Target                       : 205
+AE Average                      : 175
+AF Stable                       : Yes
+Acceleration Vector             : 0.03295832869 -0.1852030307 -0.9693216085
+Image Capture Type              : Photo
+Live Photo Video Index          : 4235300
+Photos App Feature Flags        : 0
+HDR Headroom                    : 1.00999999
+AF Performance                  : 16 1 8
+Signal To Noise Ratio           : 20.54171754
+Photo Identifier                : 2E5149BE-B279-4EC8-9D2F-CE2E3F3277F9
+Color Temperature               : 2988
+Camera Type                     : Back Normal
+Focus Position                  : 55
+HDR Gain                        : 1.995800734
+AF Measured Depth               : 20
+AF Confidence                   : 100
+Semantic Style                  : {_0=1,_1=0,_2=0,_3=0}
+Sub Sec Time Original           : 983
+Sub Sec Time Digitized          : 983
+Color Space                     : Uncalibrated
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 1.774647887
+Focal Length In 35mm Format     : 24 mm
+Lens Info                       : 2.220000029-15.65999985mm f/1.779999971-2.8
+Lens Make                       : Apple
+Lens Model                      : iPhone 15 Pro Max back triple camera 2.22mm f/2.2
+Composite Image                 : General Composite Image
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2022:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ecfda38e388547c36db4bd4f7ada182f
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2022
+Media White Point               : 0.96419 1 0.82489
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Image Width                     : 4032
+Image Height                    : 3024
+Image Spatial Extent            : 4032x3024
+Rotation                        : Rotate 90 CW
+Image Pixel Depth               : 8 8 8
+Auxiliary Image Type            : urn:com:apple:photo:2020:aux:hdrgainmap
+A To B0                         : (Binary data 19478 bytes, use -b option to extract)
+B To A0                         : (Binary data 6412 bytes, use -b option to extract)
+Color Primaries                 : SMPTE EG 432-1
+Transfer Characteristics        : SMPTE ST 2084, ITU BT.2100 PQ
+Matrix Coefficients             : Identity matrix
+Video Full Range Flag           : Full
+HD Gain Map Info                : (Binary data 230 bytes, use -b option to extract)
+Luminance                       : 0 100 0
+Color Profiles                  : nclx
+HEVC Configuration Version      : 1
+General Profile Space           : Conforming
+General Tier Flag               : Main Tier
+General Profile IDC             : Main Still Picture
+Gen Profile Compatibility Flags : Main Still Picture, Main 10, Main
+Constraint Indicator Flags      : 176 0 0 0 0 0
+General Level IDC               : 90 (level 3.0)
+Min Spatial Segmentation IDC    : 0
+Parallelism Type                : 0
+Chroma Format                   : 4:2:0
+Bit Depth Luma                  : 8
+Bit Depth Chroma                : 8
+Average Frame Rate              : 0
+Constant Frame Rate             : Unknown
+Num Temporal Layers             : 1
+Temporal ID Nested              : No
+Media Data Size                 : 1047062
+Media Data Offset               : 32160
+Run Time Since Power Up         : 2:16:13
+Aperture                        : 2.2
+Image Size                      : 4032x3024
+Megapixels                      : 12.2
+Scale Factor To 35 mm Equivalent: 10.8
+Shutter Speed                   : 1/40
+Create Date                     : 2025:03:30 11:45:17.983-07:00
+Date/Time Original              : 2025:03:30 11:45:17.983-07:00
+Modify Date                     : 2025:03:30 11:45:17-07:00
+Circle Of Confusion             : 0.003 mm
+Field Of View                   : 73.7 deg
+Focal Length                    : 2.2 mm (35 mm equivalent: 24.0 mm)
+Hyperfocal Distance             : 0.81 m
+Light Value                     : 4.3
+Lens ID                         : iPhone 15 Pro Max back triple camera 2.22mm f/2.2
