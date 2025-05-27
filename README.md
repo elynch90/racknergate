@@ -19,6 +19,7 @@ This document is an official correspondence from the Office of Disciplinary Coun
  Please refer to the attached PDF for the full contents of the letter as received.
 
 ## 🧾 Their Official Claim
+* see Lynch Decision Letter – May 21, 2025 for original
 <image src='screenshot_a.png'></image>
 
 ## METADATA OF EHIBIT A
