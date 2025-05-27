@@ -1,5 +1,7 @@
 # 🧾 Racknergate: Digital Forensic Evidence Packet
 Evidence of Institutional Corruption and Procedural Fraud – DC Superior Court & DC Bar
+"All tyranny needs to gain a foothold is for people of good conscience to remain silent."
+— Thomas Jefferson
 
 ## 📄 About This Evidence Packet
 This repository contains photographic, metadata, and documentary evidence challenging the official record of service issued by the DC Superior Court and the Office of Disciplinary Counsel (ODC) at the DC Bar.
