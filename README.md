@@ -25,6 +25,9 @@ This document is an official correspondence from the Office of Disciplinary Coun
 ** NOTE: they have also misgendered Frank -- giving the impression their attention to detail and facts is suspect at best.
 <img src='screenshot_a.png'></img>
 
+## EHIBIT A: EXHIBIT_A_ORIGINAL.HEIC
+<img src='EXHIBIT_A_ORIGINAL.HEIC'></img>
+
 ## METADATA OF EHIBIT A
 We encourage independent verification.
 All metadata can be validated via tools like exiftool.
