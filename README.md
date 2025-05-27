@@ -10,7 +10,7 @@ The materials presented directly contradict the claim that Elliott M. Lynch was 
 Digital Forensic evidence related to institutional corruption and procedural fraud at the DC superior court and DC bar
 
 ## EXHIBIT A ORIGINAL
-Unredacted Original Image
+Unredacted Original image
 Full-resolution image without pixel masking or edits.
 
 ## Lynch Decision Letter – May 21, 2025
@@ -20,7 +20,7 @@ This document is an official correspondence from the Office of Disciplinary Coun
 
 ## 🧾 Their Official Claim
 * see Lynch Decision Letter – May 21, 2025 for original
-<image src='screenshot_a.png'></image>
+<img src='screenshot_a.png'></img>
 
 ## METADATA OF EHIBIT A
 We encourage independent verification.
@@ -34,18 +34,18 @@ All metadata can be validated via tools like exiftool.
  </code>
 </pre>
 <div>
-   <image src='screenshot_b.png'></image>
+   <img src='screenshot_b.png'></img>
 </div>
 
 ## DATE SNIPPET FROM THE ABOVE METADATA
-<image src='screenshot_c.png'></image>
+<img src='screenshot_c.png'></img>
 
 ## CONCLUSION
 IF THE COURT CLAIMS A RETURN SERVICE HAS THE DATE AS 4/3/25 HOW IS ELLIOTT LYNCH IN POSSESSION OF PHOTOGRAPHIC EVIDENCE AND METADATA OF HAVING THE DOCUMENT AS FAR BACK AS MARCH 30TH 2025 AND CLAIMS IT WAS DELIVERED TO HIM AS AN ATTEMPTED WITNESS INTIMIDATION FOR HIS DISCLOSURES AS A FEDERAL WHISTLEBLOWER.
 
 ADDITIONALLY WHY WAS HE ON THE PHONE FOR 12 MINS WITH THE SF FBI TO REPORT THE FORGERY AND WITNESS INTIMIDATION ON 3/31/25 @ 4:17 PM PACIFIC STANDARD TIME BEFORE THE COURT CLAIMS HE WAS EVEN SERVED?
 <div>
- <image src='call_log.jpeg' style="width: 256px; height: 256px;"></image>
+ <img src='call_log.jpeg' style="width: 256px; height: 256px;"></img>
 </div>
 
 AFTER SPENDING AN ENITRE MONTH RETROACTIVELY FALSIFYING COURT RECORDS THE DC SUPERIOR COURT AND DC BAR HAVE BEEN CAUGHT RED HANDED VIOLATING THE CIVL LIBERTIES OF RASTER.AI PRESIDENT ELLIOTT M. LYNCH
