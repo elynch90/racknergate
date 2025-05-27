@@ -35,4 +35,5 @@ AFTER SPENDING AN ENITRE MONTH RETROACTIVELY FALSIFYING COURT RECORDS THE DC SUP
 ## OUTCOME
 AN IMMEDIATE FEDERAL INVESTIGATION INTO THIS MATTER IS REQUIRED!!!
 
+### NOTE
 This package is submitted in good faith as part of a formal response and/or evidentiary disclosure. All referenced attachments are included for independent verification.
