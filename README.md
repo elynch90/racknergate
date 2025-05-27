@@ -37,3 +37,8 @@ AN IMMEDIATE FEDERAL INVESTIGATION INTO THIS MATTER IS REQUIRED!!!
 
 ### NOTE
 This package is submitted in good faith as part of a formal response and/or evidentiary disclosure. All referenced attachments are included for independent verification.
+
+This folder contains documents released under Creative Commons CC0 1.0.
+https://creativecommons.org/publicdomain/zero/1.0/
+
+These materials are shared in the public interest for purposes of accountability and transparency.
