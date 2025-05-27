@@ -14,11 +14,12 @@ This document is an official correspondence from the Office of Disciplinary Coun
  Please refer to the attached PDF for the full contents of the letter as received.
 
 ## THEIR OFFICIAL CLAIM
-<image src='./static/screenshot_a.png'></image>
+<image src='screenshot_a.png'></image>
 
 ## METADATA OF EHIBIT A
 * WE ENCOURAGE YOU NOT TO TAKE OUR WORD ALONE BUT TO VERIFY THE METADATA YOURSELVES.
-<image src='./static/screenshot_b.png'></image>
+<image src='screenshot_b.png'></image>
+<image src='screenshot_c.png'></image>
 
 ## CONCLUSION
 AFTER SPENDING AN ENITRE MONTH RETROACTIVELY FALSIFYING COURT RECORDS THE DC SUPERIOR COURT AND DC BAR HAVE BEEN CAUGHT RED HANDED VIOLATING THE CIVL LIBERTIES OF RASTER.AI PRESIDENT ELLIOTT M. LYNCH
