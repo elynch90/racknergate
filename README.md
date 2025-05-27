@@ -1,6 +1,6 @@
 # 🧾 Racknergate: Digital Forensic Evidence Packet
 Evidence of Institutional Corruption and Procedural Fraud – DC Superior Court & DC Bar
-"All tyranny needs to gain a foothold is for people of good conscience to remain silent."
+### "All tyranny needs to gain a foothold is for people of good conscience to remain silent."
 — Thomas Jefferson
 
 ## 📄 About This Evidence Packet
