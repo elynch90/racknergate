@@ -71,7 +71,7 @@ If you were indeed investigating this matter the entire time -- I am happy to is
 
 Obviously, I have no idea how you guys run your agency and it appears this is much bigger than I thought.
 
-<i>I am not here to tell you what to do but simply a dedicated patriot and believer of the founding fathers ideals for this country.</i>
+<i>I am not here to tell you what to do but simply a dedicated patriot and believer of the founding fathers ideals for this country and will fight to defend them as demonstrated by racknergate.</i>
 
 # 🇺🇸 GOD BLESS AMERICA — LET FREEDOM RING  
 **🦅 Whistleblowers aren't the problem. They're the firewall.**
