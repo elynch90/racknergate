@@ -66,12 +66,13 @@ https://creativecommons.org/publicdomain/zero/1.0/
 
 These materials are shared in the public interest for purposes of accountability and transparency.
 
-### NOTE TO THE FBI
-If you were indeed investigating this matter the entire time -- I am happy to issue public retractions for the statments made by raster.ai condemning your inaction.
+### 📎 NOTE TO THE FBI
+If you have, in fact, been investigating this matter all along — I am willing and prepared to issue a public retraction of the prior statements made by raster.ai condemning your inaction.
 
-Obviously, I have no idea how you guys run your agency and it appears this is much bigger than I thought.
+I acknowledge that I do not know the full scope of your agency’s operations, and it’s becoming clear that this situation may be far larger and more complex than I initially understood.
 
-<i>I am not here to tell you what to do but simply a dedicated patriot and believer of the founding fathers ideals for this country and will fight to defend them as demonstrated by racknergate.</i>
+#### Let it be known:
+<i>I am not here to dictate your actions — I am simply a dedicated patriot, committed to the ideals laid down by the founding fathers of this country. And I will continue to fight to defend them, as this evidence packet — Racknergate — clearly demonstrates.</i>
 
 # 🇺🇸 GOD BLESS AMERICA — LET FREEDOM RING  
 **🦅 Whistleblowers aren't the problem. They're the firewall.**
