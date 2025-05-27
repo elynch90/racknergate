@@ -66,5 +66,12 @@ https://creativecommons.org/publicdomain/zero/1.0/
 
 These materials are shared in the public interest for purposes of accountability and transparency.
 
+### NOTE TO THE FBI
+If you were indeed investigating this matter the entire time -- I am happy to issue public retractions for the statments made by raster.ai condemning your inaction.
+
+Obviously, I have no idea how you guys run your agency and it appears this is much bigger than I thought.
+
+<i>I am not here to tell you what to do but simply a dedicated patriot and believer of the founding fathers ideals for this country.</i>
+
 # 🇺🇸 GOD BLESS AMERICA — LET FREEDOM RING  
 **🦅 Whistleblowers aren't the problem. They're the firewall.**
