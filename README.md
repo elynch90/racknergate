@@ -1,8 +1,13 @@
-# racknergate
-Digital Forensic evidence related to institutional corruption and procedural fraud at the DC superior court and DC bar
+# 🧾 Racknergate: Digital Forensic Evidence Packet
+Evidence of Institutional Corruption and Procedural Fraud – DC Superior Court & DC Bar
 
-## About This Evidence Packet
-This packet presents photographic, metadata, and supporting documentary evidence contesting the claim that I was formally served with a court summons on or after April 3, 2025. The materials herein directly contradict the official timeline asserted by the DC Bar and associated parties.
+## 📄 About This Evidence Packet
+This repository contains photographic, metadata, and documentary evidence challenging the official record of service issued by the DC Superior Court and the Office of Disciplinary Counsel (ODC) at the DC Bar.
+
+The materials presented directly contradict the claim that Elliott M. Lynch was legally served on or after April 3, 2025, exposing a falsified judicial timeline. These documents are provided in the public interest to support legal accountability, transparency, and whistleblower protection.
+
+
+Digital Forensic evidence related to institutional corruption and procedural fraud at the DC superior court and DC bar
 
 ## EXHIBIT A ORIGINAL
 Unredacted Original Image
@@ -13,11 +18,20 @@ Document Title: Lynch Decision Letter 5-21-2025.pdf
 This document is an official correspondence from the Office of Disciplinary Counsel, dated May 21, 2025. It is authored by Becky Neal, Senior Assistant Disciplinary Counsel, and outlines the ODC’s position or findings related to the matters under review.
  Please refer to the attached PDF for the full contents of the letter as received.
 
-## THEIR OFFICIAL CLAIM
+## 🧾 Their Official Claim
 <image src='screenshot_a.png'></image>
 
 ## METADATA OF EHIBIT A
-* WE ENCOURAGE YOU NOT TO TAKE OUR WORD ALONE BUT TO VERIFY THE METADATA YOURSELVES.
+We encourage independent verification.
+All metadata can be validated via tools like exiftool.
+<pre>
+ <code>
+   # darwinOS install
+   brew install exiftool
+   # then run
+   exiftool EXHIBIT_A_ORIGINAL.HEIC
+ </code>
+</pre>
 <div>
    <image src='screenshot_b.png'></image>
 </div>
