@@ -9,6 +9,59 @@ This repository contains photographic, metadata, and documentary evidence challe
 The materials presented directly contradict the claim that Elliott M. Lynch was legally served on or after April 3, 2025, exposing a falsified judicial timeline. These documents are provided in the public interest to support legal accountability, transparency, and whistleblower protection.
 
 
+## 📌 PERJURY BY PETITIONER FRANK HACKENBURG
+Violation of D.C. Code § 22–2402 – Knowingly False Sworn Statement in a Court Proceeding
+
+## Summary:
+Petitioner Francis “Frank” Hackenburg knowingly submitted a materially false sworn affidavit to the DC Superior Court in support of an anti-stalking order against whistleblower Elliott M. Lynch. The false statement directly misrepresents the tone, content, and intent of an email sent on March 17, 2025 — a communication that is now preserved, timestamped, and publicly disclosed.
+
+## False Claim in the Affidavit:
+"Sent an email communication to myself (his former employer) declaring I had a deadline of April 1 to discuss a settlement for perceived wrongs with an ominous threat of what would happen if we didn’t."
+
+Verifiable Truth (Exhibit Attached: Final Offer – St. Patrick’s Day Resolution Opportunity):
+The email in question was a professional, respectful settlement offer, containing no threats, coercion, or hostile language.
+
+The phrase “Otherwise 🏴” was the only metaphorical signal used, intended as a symbolic closing of opportunity (referencing a pirate flag, commonly understood to signal surrender or finality).
+
+Nowhere does the email include any threats of violence or stalking.
+
+The subject line (“Final Offer – St. Patrick’s Day Resolution Opportunity”) and tone throughout reflect good faith legal outreach, not criminal intent.
+
+Why This Constitutes Perjury:
+Under D.C. Code § 22–2402, perjury is committed when a person, “in any declaration, verification, certificate, statement, oath, or affidavit required by law, knowingly makes any false material declaration.”
+
+The affidavit was submitted under penalty of perjury in support of a protective order.
+
+The email is material to the outcome — the ASO would not have been granted without it.
+
+The petitioner had access to the original email, meaning the misrepresentation was knowingly false.
+
+Legal Implications:
+Frank Hackenburg is now liable for:
+
+Perjury (D.C. Code § 22–2402),
+
+Fraud upon the court (Knowingly misleading a judicial officer to obtain a ruling),
+
+Obstruction of justice (Interfering with the lawful exercise of federal rights),
+
+Retaliation against a whistleblower (by weaponizing judicial systems to discredit or silence protected disclosures),
+
+And potentially conspiracy to commit fraud if coordinated with others.
+
+## Conclusion:
+If this Anti-Stalking Order was secured through perjury, and the court continues to act upon it despite irrefutable evidence to the contrary, then the court itself becomes complicit in the fraud.
+
+The affidavit must be rescinded immediately, and a full investigation launched into both the false statements made and the institutional failures that allowed them to be accepted without scrutiny.
+
+Whistleblower communications are not threats.
+Truth is not harassment.
+And justice cannot coexist with lies.
+## THE EMAIL FRANK CLAIMS TO BE EVIDENCE OF STALKING AND HIS WRITTEN SUMMARY OF THE EMAIL IN QUESTION
+<div>
+ <img src='screenshot_e.png' style="width: 512px; height: 512px;"></img>
+</div>
+
 ## Digital Forensic evidence related to institutional corruption and procedural fraud at the DC superior court and DC bar
 
 ## EXHIBIT A ORIGINAL
