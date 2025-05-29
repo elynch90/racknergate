@@ -8,7 +8,7 @@ This repository contains photographic, metadata, and documentary evidence challe
 
 The materials presented directly contradict the claim that Elliott M. Lynch was legally served on or after April 3, 2025, exposing a falsified judicial timeline. These documents are provided in the public interest to support legal accountability, transparency, and whistleblower protection.
 <div>
- <img src='ghost.png' style="width: 512px; height: 512px;"></img>
+ <img src='ghostcase.png' style="width: 128px; height: 128px;"></img>
 </div>
 
 ## 📌 PERJURY BY PETITIONER FRANK HACKENBURG
