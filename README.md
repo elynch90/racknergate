@@ -7,7 +7,9 @@ Evidence of Institutional Corruption and Procedural Fraud – DC Superior Court 
 This repository contains photographic, metadata, and documentary evidence challenging the official record of service issued by the DC Superior Court and the Office of Disciplinary Counsel (ODC) at the DC Bar.
 
 The materials presented directly contradict the claim that Elliott M. Lynch was legally served on or after April 3, 2025, exposing a falsified judicial timeline. These documents are provided in the public interest to support legal accountability, transparency, and whistleblower protection.
-
+<div>
+ <img src='ghost.png' style="width: 512px; height: 512px;"></img>
+</div>
 
 ## 📌 PERJURY BY PETITIONER FRANK HACKENBURG
 Violation of D.C. Code § 22–2402 – Knowingly False Sworn Statement in a Court Proceeding
