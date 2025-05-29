@@ -10,7 +10,7 @@ The materials presented directly contradict the claim that Elliott M. Lynch was 
 <div>
  <img src='ghostcase.PNG' style="width: 128px; height: 128px;"></img>
 </div>
-<i>WHO YOU TRY'NA TO FRAME? --GHOSTCASE BUSTERS!</i>
+<i>WHO YOU TRY'NA FRAME? --GHOSTCASE BUSTERS!</i>
 
 ## 📌 PERJURY BY PETITIONER FRANK HACKENBURG
 Violation of D.C. Code § 22–2402 – Knowingly False Sworn Statement in a Court Proceeding
