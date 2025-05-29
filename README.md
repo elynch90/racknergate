@@ -153,6 +153,7 @@ ADDITONALLY INVESTIGATE THE ORIGINAL CLAIMS OF FRAUD AND RACKETEERING ON THE FDA
 <div>
  <img src='gwood_a.png' style="width: 512px; height: 256px;"></img>
 </div>
+
 ### STONEWALLING
 <div>
  <img src='gwood_b.png' style="width: 512px; height: 256px;"></img>
