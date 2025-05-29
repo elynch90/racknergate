@@ -21,7 +21,9 @@ Petitioner Francis “Frank” Hackenburg knowingly submitted a materially false
 Verifiable Truth (Exhibit Attached: Final Offer – St. Patrick’s Day Resolution Opportunity):
 The email in question was a professional, respectful settlement offer, containing no threats, coercion, or hostile language.
 
-The phrase “Otherwise 🏴” was the only metaphorical signal used, intended as a symbolic closing of opportunity (referencing a pirate flag, commonly understood to signal surrender or finality).
+The phrase “Otherwise 🏴‍☠️” was the only metaphorical signal used, intended as a symbolic closing of opportunity (referencing a pirate flag, commonly understood to signal surrender or finality).
+
+Furthermore, historically the black flag is a symbol that surrender is possible while a red flag does not. Hence why it is likely Apple does not make a red jolly roger emoji but we are free to use the black one on every single iphone in existance.
 
 Nowhere does the email include any threats of violence or stalking.
 
