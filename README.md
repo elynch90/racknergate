@@ -1,6 +1,7 @@
 # EIA (ELLIOTT INTELLIGENCE AGENCY) CASE: 00A
 # 🧾 Racknergate: Digital Forensic Evidence Packet
 Evidence of Institutional Corruption and Procedural Fraud – DC Superior Court & DC Bar
+INVESTIGATION REPORT COMPILED BY EIA DIRECTOR ELLIOTT LYNCH CODENANE "THE EAGLE"
 ### "All tyranny needs to gain a foothold is for people of good conscience to remain silent."
 — Thomas Jefferson
 
@@ -329,4 +330,3 @@ I acknowledge that I do not know the full scope of your agency’s operations, a
 
 # 🇺🇸 GOD BLESS AMERICA — LET FREEDOM RING  
 **🦅 Whistleblowers aren't the problem. They're the firewall.**
--- ELLIOTT LYNCH AKA THE EAGLE 
