@@ -326,7 +326,7 @@ If you have, in fact, been investigating this matter all along — I am willing 
 
 I acknowledge that I do not know the full scope of your agency’s operations, and it’s becoming clear that this situation may be far larger and more complex than I initially understood.
 ### 📎 NOTE TO THE CIA
-[]
+
 
 #### Let it be known:
 <i>I am not here to dictate your actions — I am simply a dedicated patriot, committed to the ideals laid down by the founding fathers of this country. And I will continue to fight to defend them, as this evidence packet — Racknergate — clearly demonstrates.</i>
