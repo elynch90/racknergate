@@ -25,6 +25,7 @@ The phrase “Otherwise 🏴‍☠️” was the only metaphorical signal used, 
 
 Furthermore, historically the black flag is a symbol that surrender is possible while a red flag does not. Hence why it is likely Apple does not make a red jolly roger emoji but we are free to use the black one on every single iphone in existance.
 
+Specifically, my use of the jollyrogers was a reference to my Silicon Valley ethos and one of my favorite films (or tv movie apparently) "Pirates of Sillicon Valley" (1999).
 Nowhere does the email include any threats of violence or stalking.
 
 The subject line (“Final Offer – St. Patrick’s Day Resolution Opportunity”) and tone throughout reflect good faith legal outreach, not criminal intent.
