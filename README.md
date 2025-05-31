@@ -317,6 +317,8 @@ Then it was never in vain.
 ZACH WEIR -- INERVIEW CALL ON 2/13/25
 
 ## EIA FOLLOW UP INVESTIGATION (5/30/25)
+### EIA PROMPT TO ZACH:
+
 #### 📁 Zach Weir — Admission of Willingness to Forge Documents
 <div>
  <img src='zach_admission.PNG' style="width: 256px; height: 512px;"></img>
