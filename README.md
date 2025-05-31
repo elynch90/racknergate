@@ -323,11 +323,11 @@ ZACH WEIR
 #### DEFAMATION
 EXHIBIT A
 <div>
- <img src='zach_defamation_a.jpeg' style="width: 256px; height: 256px;"></img>
+ <img src='zach_defamation_a.jpg' style="width: 256px; height: 256px;"></img>
 </div>
 EXHIBIT B
 <div>
- <img src='zach_defamation_b.jpeg' style="width: 256px; height: 256px;"></img>
+ <img src='zach_defamation_b.jpg' style="width: 256px; height: 256px;"></img>
 </div>
 
 🟢 Primary Finding:
