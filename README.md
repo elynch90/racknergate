@@ -316,6 +316,14 @@ Then it was never in vain.
 ### INDIVIDUAL SUSPECTS
 I AM OPERATING UNDER THE ASSUMPTION THAT IT IS NOW TIME TO MOVE ON TO INDIVIDUAL SUSPECTS GIVEN THE ASSUMED NEUTRALIZATION OF VARIOUS HIGH LEVEL BAD ACTORS SUCH AS RACKNER, AWS, JANA.
 
+
+## BRYAN LEE - Subgraph
+* Outreach ivitation 2/24/25
+* Scheduled meeting for 2/26/25 at 11:15 AM
+* on 2/26/25 at 9:58AM Informs me after spelling my name incorrectly as 'Elliot' -- a fact rackner is familiar with and was used repeatedly by ICA as a form of indignation as my name is optionally configurable -- meanwhile 'Elliot' is not my legal name but a mispelling -- "Wilot has put a hold on this role but I will reach out if we have anu other opportunities that may be a fit!"
+-- never hear from him agian, possibly because it was a one time only bounty to decieve and waste my time with this pattern of outreach.
+Highly suspect.
+
 ## ZACH WEIR -- JOB INTERVIEW CALL ON 2/13/25 — FAILURE TO APPEAR
 Incident: Unexplained Absence from Scheduled Interview. No notification or professional courtesy.
 
