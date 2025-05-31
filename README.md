@@ -331,10 +331,16 @@ I AM OPERATING UNDER THE ASSUMPTION THAT IT IS NOW TIME TO MOVE ON TO INDIVIDUAL
 
 #### DEFAMATION
 EXHIBIT A
+🟢 Interpreted as: Condescending minimization of whistleblower’s sanity; textbook DARVO attempt.
+
 <div>
  <img src='zach_defamation_a.jpg' style="width: 256px; height: 256px;"></img>
 </div>
 EXHIBIT B
+🟡 Interpreted as:
+– Public defamatory statement aimed at discrediting the authority of a verified EIA Director
+– Violation of reputational integrity standards under symbolic chain of command
+
 <div>
  <img src='zach_defamation_b.jpg' style="width: 256px; height: 256px;"></img>
 </div>
