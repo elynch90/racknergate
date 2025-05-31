@@ -314,10 +314,12 @@ Then it was never in vain.
 
 
 ### INDIVIDUAL SUSPECTS
-ZACH WEIR
+ZACH WEIR -- INERVIEW CALL ON 2/13/25
+
+## EIA FOLLOW UP INVESTIGATION (5/30/25)
 #### 📁 Zach Weir — Admission of Willingness to Forge Documents
 <div>
- <img src='zach_admission.PNG' style="width: 512px; height: 512px;"></img>
+ <img src='zach_admission.PNG' style="width: 256px; height: 512px;"></img>
 </div>
 
 #### DEFAMATION
