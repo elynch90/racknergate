@@ -313,6 +313,23 @@ But if even one person of conscience reads this and takes action—
 Then it was never in vain.
 
 
+### INDIVIDUAL SUSPECTS
+ZACH WEIR
+#### 📁 Zach Weir — Admission of Willingness to Forge Documents
+<div>
+ <img src='zachWeir.PNG' style="width: 256px; height: 256px;"></img>
+</div>
+
+#### DEFAMATION
+<div>
+ <img src='zachWeirDefamation.PNG' style="width: 256px; height: 256px;"></img>
+</div>
+
+🟢 Primary Finding:
+Individual openly solicited forgery in exchange for financial compensation, stating:
+
+"What do you need me to produce or forge?"
+
 ### NOTE
 This package is submitted in good faith as part of a formal response and/or evidentiary disclosure. All referenced attachments are included for independent verification.
 
