@@ -323,9 +323,6 @@ I AM OPERATING UNDER THE ASSUMPTION THAT IT IS NOW TIME TO MOVE ON TO INDIVIDUAL
 <div>
  <img src='EIA_PROMPT_ZACH.PNG' style="width: 256px; height: 512px;"></img>
 </div>
-<div>
-  <img src='EIA_PROMPT_ZACH_B.PNG' style="width: 256px; height: 512px;"></img>
-</div>
 
 #### 📁 Zach Weir — Admission of Willingness to Forge Documents
 <div>
